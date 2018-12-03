@@ -12,6 +12,20 @@
 		193BEE9421B3605A0007A514 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 193BEE9221B3605A0007A514 /* Main.storyboard */; };
 		193BEE9621B3605C0007A514 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 193BEE9521B3605C0007A514 /* Assets.xcassets */; };
 		193BEE9921B3605C0007A514 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 193BEE9721B3605C0007A514 /* LaunchScreen.storyboard */; };
+		193BEEA121B3995E0007A514 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193BEEA021B3995E0007A514 /* Models.swift */; };
+		193BEEA321B3C4590007A514 /* Sonifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 193BEEA221B3C4590007A514 /* Sonifier.swift */; };
+		193BEED221B3FE370007A514 /* clearingthroat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193BEEC921B3FE370007A514 /* clearingthroat.wav */; };
+		193BEED321B3FE370007A514 /* bell.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193BEECA21B3FE370007A514 /* bell.wav */; };
+		193BEED421B3FE370007A514 /* Table1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193BEECB21B3FE370007A514 /* Table1.wav */; };
+		193BEED521B3FE370007A514 /* cashregister.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 193BEECC21B3FE370007A514 /* cashregister.mp3 */; };
+		193BEED621B3FE370007A514 /* Table2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193BEECD21B3FE370007A514 /* Table2.wav */; };
+		193BEED721B3FE370007A514 /* Table3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193BEECE21B3FE370007A514 /* Table3.wav */; };
+		193BEED821B3FE370007A514 /* Table4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193BEECF21B3FE370007A514 /* Table4.wav */; };
+		193BEED921B3FE370007A514 /* pencilwriting.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193BEED021B3FE370007A514 /* pencilwriting.wav */; };
+		193BEEDA21B3FE370007A514 /* water_pour.wav in Resources */ = {isa = PBXBuildFile; fileRef = 193BEED121B3FE370007A514 /* water_pour.wav */; };
+		198BDAD621B5E8F40028B5DA /* water_splash_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 198BDAD321B5E8F30028B5DA /* water_splash_1.wav */; };
+		198BDAD721B5E8F40028B5DA /* cs_2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 198BDAD421B5E8F30028B5DA /* cs_2.wav */; };
+		198BDAD821B5E8F40028B5DA /* cash_1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 198BDAD521B5E8F30028B5DA /* cash_1.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,20 @@
 		193BEE9521B3605C0007A514 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		193BEE9821B3605C0007A514 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		193BEE9A21B3605C0007A514 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		193BEEA021B3995E0007A514 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		193BEEA221B3C4590007A514 /* Sonifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sonifier.swift; sourceTree = "<group>"; };
+		193BEEC921B3FE370007A514 /* clearingthroat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = clearingthroat.wav; sourceTree = "<group>"; };
+		193BEECA21B3FE370007A514 /* bell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bell.wav; sourceTree = "<group>"; };
+		193BEECB21B3FE370007A514 /* Table1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Table1.wav; sourceTree = "<group>"; };
+		193BEECC21B3FE370007A514 /* cashregister.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = cashregister.mp3; sourceTree = "<group>"; };
+		193BEECD21B3FE370007A514 /* Table2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Table2.wav; sourceTree = "<group>"; };
+		193BEECE21B3FE370007A514 /* Table3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Table3.wav; sourceTree = "<group>"; };
+		193BEECF21B3FE370007A514 /* Table4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Table4.wav; sourceTree = "<group>"; };
+		193BEED021B3FE370007A514 /* pencilwriting.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = pencilwriting.wav; sourceTree = "<group>"; };
+		193BEED121B3FE370007A514 /* water_pour.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = water_pour.wav; sourceTree = "<group>"; };
+		198BDAD321B5E8F30028B5DA /* water_splash_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = water_splash_1.wav; sourceTree = "<group>"; };
+		198BDAD421B5E8F30028B5DA /* cs_2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cs_2.wav; sourceTree = "<group>"; };
+		198BDAD521B5E8F30028B5DA /* cash_1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = cash_1.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +82,36 @@
 		193BEE8D21B3605A0007A514 /* ServeAssist */ = {
 			isa = PBXGroup;
 			children = (
+				193BEEA421B3E1DC0007A514 /* soundfiles */,
 				193BEE8E21B3605A0007A514 /* AppDelegate.swift */,
 				193BEE9021B3605A0007A514 /* ViewController.swift */,
 				193BEE9221B3605A0007A514 /* Main.storyboard */,
 				193BEE9521B3605C0007A514 /* Assets.xcassets */,
 				193BEE9721B3605C0007A514 /* LaunchScreen.storyboard */,
 				193BEE9A21B3605C0007A514 /* Info.plist */,
+				193BEEA021B3995E0007A514 /* Models.swift */,
+				193BEEA221B3C4590007A514 /* Sonifier.swift */,
 			);
 			path = ServeAssist;
+			sourceTree = "<group>";
+		};
+		193BEEA421B3E1DC0007A514 /* soundfiles */ = {
+			isa = PBXGroup;
+			children = (
+				198BDAD521B5E8F30028B5DA /* cash_1.wav */,
+				198BDAD421B5E8F30028B5DA /* cs_2.wav */,
+				198BDAD321B5E8F30028B5DA /* water_splash_1.wav */,
+				193BEECA21B3FE370007A514 /* bell.wav */,
+				193BEECC21B3FE370007A514 /* cashregister.mp3 */,
+				193BEEC921B3FE370007A514 /* clearingthroat.wav */,
+				193BEED021B3FE370007A514 /* pencilwriting.wav */,
+				193BEECB21B3FE370007A514 /* Table1.wav */,
+				193BEECD21B3FE370007A514 /* Table2.wav */,
+				193BEECE21B3FE370007A514 /* Table3.wav */,
+				193BEECF21B3FE370007A514 /* Table4.wav */,
+				193BEED121B3FE370007A514 /* water_pour.wav */,
+			);
+			path = soundfiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +172,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				193BEED521B3FE370007A514 /* cashregister.mp3 in Resources */,
+				198BDAD621B5E8F40028B5DA /* water_splash_1.wav in Resources */,
+				193BEEDA21B3FE370007A514 /* water_pour.wav in Resources */,
+				193BEED921B3FE370007A514 /* pencilwriting.wav in Resources */,
+				193BEED821B3FE370007A514 /* Table4.wav in Resources */,
+				193BEED321B3FE370007A514 /* bell.wav in Resources */,
+				193BEED421B3FE370007A514 /* Table1.wav in Resources */,
 				193BEE9921B3605C0007A514 /* LaunchScreen.storyboard in Resources */,
+				198BDAD821B5E8F40028B5DA /* cash_1.wav in Resources */,
+				193BEED621B3FE370007A514 /* Table2.wav in Resources */,
 				193BEE9621B3605C0007A514 /* Assets.xcassets in Resources */,
+				193BEED721B3FE370007A514 /* Table3.wav in Resources */,
+				198BDAD721B5E8F40028B5DA /* cs_2.wav in Resources */,
 				193BEE9421B3605A0007A514 /* Main.storyboard in Resources */,
+				193BEED221B3FE370007A514 /* clearingthroat.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,6 +197,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				193BEEA321B3C4590007A514 /* Sonifier.swift in Sources */,
+				193BEEA121B3995E0007A514 /* Models.swift in Sources */,
 				193BEE9121B3605A0007A514 /* ViewController.swift in Sources */,
 				193BEE8F21B3605A0007A514 /* AppDelegate.swift in Sources */,
 			);
@@ -283,7 +347,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FY7422QAK2;
+				DEVELOPMENT_TEAM = 8ERFWF6T4Q;
 				INFOPLIST_FILE = ServeAssist/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -301,7 +365,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = FY7422QAK2;
+				DEVELOPMENT_TEAM = 8ERFWF6T4Q;
 				INFOPLIST_FILE = ServeAssist/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
